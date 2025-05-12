@@ -12,7 +12,7 @@
     "username": "itunnel",
     "password": "rnraselrn",
     "expiresAt": "2025-06-10",
-    "allowOffline": false
+    "allowOffline": true
   },
   
   {
