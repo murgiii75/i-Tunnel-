@@ -40,6 +40,14 @@
   },
   
   {
+    "id": "e4c174c956dda1d4",
+    "username": "itunnel",
+    "password": "nihad2004",
+    "expiresAt": "2025-06-17",
+    "allowOffline": true
+  },
+  
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
