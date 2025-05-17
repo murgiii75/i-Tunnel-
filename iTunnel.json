@@ -30,6 +30,14 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+
+  {
+    "id": "7995cdf146959555",
+    "username": "itunnel",
+    "password": "@55544432",
+    "expiresAt": "2025-06-17",
+    "allowOffline": true
+  },
   
   {
     "id": "android_device_id_2",
