@@ -6,38 +6,6 @@
     "expiresAt": "2025-12-28",
     "allowOffline": true
   },
-
-  {
-    "id": "415638d25fa4283a",
-    "username": "itunnel",
-    "password": "rnraselrn",
-    "expiresAt": "2025-06-10",
-    "allowOffline": true
-  },
-  
-  {
-    "id": "d068cc76a5d1cb17",
-    "username": "itunnel",
-    "password": "kaiyum",
-    "expiresAt": "2025-06-2",
-    "allowOffline": true
-  },
-
-  {
-    "id": "d8de54a7f1c4ace0",
-    "username": "itunnel",
-    "password": "nabila",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
- 
-  {
-    "id": "e4c174c956dda1d4",
-    "username": "itunnel",
-    "password": "nihad2004",
-    "expiresAt": "2025-06-17",
-    "allowOffline": false
-  },
   
   {
     "id": "18df50b85642f938",
@@ -62,4 +30,5 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
+  
 ]
