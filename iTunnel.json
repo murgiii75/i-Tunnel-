@@ -28,7 +28,7 @@
     "username": "itunnel",
     "password": "sakku",
     "expiresAt": "2025-07-06",
-    "allowOffline": false
+    "allowOffline": true
   },
   
   {
